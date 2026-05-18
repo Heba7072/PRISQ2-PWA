@@ -1,0 +1,1077 @@
+{
+  "languages": {
+    "en": "English",
+    "ar": "العربية"
+  },
+  "siteTranslations": {
+    "en": {
+      "pageTitles": {
+        "home": "PRISQ2",
+        "quiz": "PRISQ Assessment",
+        "info": "Why Prediabetes Matters",
+        "risk": "Healthy Lifestyle Guidance",
+        "contact": "Contact Us",
+        "about": "About PRISQ2",
+        "team": "Prediabetes Team"
+      },
+      "nav": {
+        "home": "Home",
+        "quiz": "Quiz",
+        "info": "Why Prediabetes Matters",
+        "risk": "Risk Guidance",
+        "contact": "Contact Us",
+        "about": "About Us",
+        "team": "Our Team",
+        "openMenu": "Open navigation menu",
+        "closeMenu": "Close navigation menu",
+        "switchLanguage": "Switch language"
+      },
+      "home": {
+        "heroTitle": "Prediabetes Risk Assessment in Qatar",
+        "heroText": "Understand your risks and take informed steps toward better health.",
+        "cta": "Calculate My Risk",
+        "learnMore": "Why should I care about prediabetes?"
+      },
+      "info": {
+        "heading": "Why Prediabetes Matters",
+        "whatTitle": "What Is Prediabetes?",
+        "whatText": "Prediabetes occurs when blood sugar levels are higher than normal but not yet high enough to be diagnosed as type 2 diabetes. It develops when the body becomes resistant to insulin or does not produce enough insulin to keep blood sugar levels within a healthy range. Over time, this imbalance can gradually worsen if no action is taken.",
+        "whyTitle": "Why Does It Happen?",
+        "whyText": "Prediabetes is often called a silent condition because it usually does not cause noticeable symptoms. Many people may have it without realizing it. However, without proper management, it can progress to type 2 diabetes. It also increases the risk of heart disease, stroke, kidney disease, and other long-term health complications.",
+        "reversibleTitle": "Is It Reversible?",
+        "reversibleText": "The encouraging news is that prediabetes is often reversible. Early detection provides a valuable opportunity to make meaningful changes. Improving eating habits, increasing physical activity, maintaining a healthy weight, and attending regular health check-ups can significantly reduce blood sugar levels and lower the risk of progression.",
+        "earlyTitle": "Why Early Action Matters",
+        "earlyText": "Identifying prediabetes early allows individuals to take control of their health before complications develop. Even small, consistent lifestyle changes can have a long-term positive impact. Taking action today can help prevent future health problems and support overall well-being.",
+        "cta": "Explore Healthy Lifestyle Tips"
+      },
+      "risk": {
+        "heading": "Healthy Lifestyle Guidance",
+        "stepsTitle": "Steps You Can Take",
+        "stepsText": "Taking care of your health is an ongoing journey. Whether your current risk is low or higher, consistent and informed lifestyle choices can significantly reduce the likelihood of developing type 2 diabetes and other long-term complications.",
+        "eatingTitle": "Build a Balanced Eating Pattern",
+        "eatingText": "Healthy nutrition plays a major role in blood sugar control.",
+        "eatingList1": "Choose whole grains instead of refined carbohydrates.",
+        "eatingList2": "Include vegetables, fruits, legumes, and fiber-rich foods daily.",
+        "eatingList3": "Limit sugary drinks, sweets, and highly processed foods.",
+        "eatingList4": "Reduce portion sizes if needed to support weight management.",
+        "eatingList5": "Prefer healthy fats such as olive oil, nuts, and seeds.",
+        "activityTitle": "Stay Physically Active",
+        "activityText": "Regular physical activity helps the body use insulin more effectively.",
+        "activityList1": "Aim for at least 150 minutes of moderate activity per week, such as brisk walking.",
+        "activityList2": "Include strength training exercises 2-3 times per week.",
+        "activityList3": "Find activities you enjoy to make it easier to stay consistent.",
+        "activityList4": "Break up long periods of sitting with short activity breaks.",
+        "weightTitle": "Maintain a Healthy Weight",
+        "weightText1": "Excess body weight, especially around the abdomen, increases insulin resistance. Losing even a small percentage of body weight, around 5-10%, can significantly reduce the risk of progressing to type 2 diabetes.",
+        "weightText2": "Weight management should focus on gradual, sustainable changes rather than restrictive dieting.",
+        "monitorTitle": "Monitor Your Health Regularly",
+        "monitorText": "Regular health check-ups allow early detection and monitoring.",
+        "monitorList1": "Check blood glucose levels as recommended by a healthcare professional.",
+        "monitorList2": "Monitor blood pressure and cholesterol levels.",
+        "monitorList3": "Discuss your family history and personal risk factors with your doctor.",
+        "monitorText2": "Early monitoring helps prevent complications and supports long-term health planning.",
+        "sleepTitle": "Manage Stress and Sleep",
+        "sleepText": "Chronic stress and poor sleep can affect blood sugar control.",
+        "sleepList1": "Aim for 7-9 hours of quality sleep per night.",
+        "sleepList2": "Practice stress-reducing techniques such as deep breathing, walking, or mindfulness.",
+        "sleepList3": "Maintain consistent daily routines when possible.",
+        "sleepText2": "Supporting mental well-being is an important part of overall health.",
+        "factorsTitle": "Understand Your Risk Factors",
+        "factorsText": "Some risk factors, such as genetics and family history, cannot be changed. However, lifestyle choices can significantly reduce their impact. Being aware of your risk empowers you to take proactive steps.",
+        "cta": "See Why Prediabetes Matters"
+      },
+      "contact": {
+        "heading": "Contact Us",
+        "halimaBensmail": "Dr. Halima Bensmail",
+        "michaelJAupetit": "Dr. Michael Aupetit"
+      },
+      "about": {
+        "heading": "About Us"
+      },
+      "team": {
+        "heading": "Prediabetes Team",
+        "tableCaption": "Prediabetes team members, titles, and institutes.",
+        "columns": {
+          "name": "Name",
+          "title": "Title",
+          "institute": "Institute"
+        },
+        "members": {
+          "hebaBenny": "Heba Benny",
+          "michaelJAupetit": "Dr. Michael Aupetit",
+          "halimaBensmail": "Halima Bensmail",
+          "abdullahShaar": "Abdullah Shaar",
+          "mostafaHamza": "Dr. Mostafa Hamza",
+          "mostafaAbbas": "Mostafa Abbas",
+          "raghvendraMall": "Raghvendra Mall"
+        },
+        "institutes": {
+          "qcri": "QCRI",
+          "qbri": "QBRI",
+          "geisingerPopulationHealth": "Geisinger Hospital, Department of Population Health Sciences, Pennsylvania"
+        },
+        "profile": {
+          "paragraph1": "My name is Heba Benny, and I am currently pursuing a degree in Artificial Intelligence and Machine Learning. I am deeply interested in how technology can be used to create meaningful, real-world impact - especially in healthcare and preventive medicine.",
+          "paragraph2": "Beyond my academic work, I have a genuine passion for web design and creative digital development. I enjoy turning ideas, data, and research into thoughtful, user-friendly experiences that feel both clear and engaging.",
+          "paragraph3": "PRISQ was developed during my internship as a project that reflects both my academic interests and my love for design. Through this application, I aimed to combine structured, research-based health assessment with intuitive interaction - making preventive health awareness more accessible and approachable for everyone."
+        },
+        "roles": {
+          "intern": "Intern",
+          "internMale": "Intern",
+          "principalScientist": "Principal Scientist",
+          "seniorScientist": "Senior Scientist",
+          "postdoc": "Postdoc",
+          "researchScientist": "Research Scientist",
+          "researchAssistant": "Research Assistant",
+          "softwareEngineer": "Software Engineer",
+          "seniorSoftwareEngineer": "Senior Software Engineer"
+        }
+      },
+      "quiz": {
+        "resultHeading": "Your Prediabetes Risk:",
+        "scoreLabel": "Your score:",
+        "restart": "Try again",
+        "cta": "Explore Healthy Lifestyle Tips"
+      }
+    },
+    "ar": {
+      "pageTitles": {
+        "home":"بريسك٢",
+        "quiz": "تقييم",
+        "info": "لماذا تهم مرحلة ما قبل السكري؟",
+        "risk": "إرشادات لنمط حياة صحي",
+        "contact": "تواصل معنا",
+        "about": "عن بريسك٢",
+        "team": "فريق مرحلة ما قبل السكري"
+      },
+      "nav": {
+        "home": "الرئيسية",
+        "quiz": "الاستبيان",
+        "info": "لماذا تهم مرحلة ما قبل السكري؟",
+        "risk": "إرشادات صحية",
+        "contact": "تواصل معنا",
+        "about": "من نحن",
+        "team": "فريقنا",
+        "openMenu": "فتح قائمة التنقل",
+        "closeMenu": "إغلاق قائمة التنقل",
+        "switchLanguage": "تبديل اللغة"
+      },
+      "home": {
+        "heroTitle": "تقييم مخاطر مرحلة ما قبل السكري في قطر",
+        "heroText": "تعرّف على مستوى خطورتك واتخذ خطوات مدروسة نحو صحة أفضل.",
+        "cta": "احسب مستوى خطورتي",
+        "learnMore": "لماذا يجب أن أهتم بمرحلة ما قبل السكري؟"
+      },
+      "info": {
+        "heading": "لماذا تهم مرحلة ما قبل السكري؟",
+        "whatTitle": "ما هي مرحلة ما قبل السكري؟",
+        "whatText": "تحدث مرحلة ما قبل السكري عندما تكون مستويات السكر في الدم أعلى من الطبيعي ولكنها ليست مرتفعة بما يكفي لتشخيص السكري من النوع الثاني. وتظهر عندما يصبح الجسم مقاوماً للأنسولين أو لا ينتج كمية كافية منه للحفاظ على سكر الدم ضمن المعدل الصحي. ومع مرور الوقت قد يزداد هذا الخلل إذا لم يتم التعامل معه.",
+        "whyTitle": "لماذا تحدث؟",
+        "whyText": "غالباً ما تُسمى مرحلة ما قبل السكري حالة صامتة لأنها لا تسبب عادةً أعراضاً واضحة. وقد يكون كثير من الأشخاص مصابين بها من دون أن يدركوا ذلك. لكن من دون إدارة مناسبة قد تتطور إلى السكري من النوع الثاني، كما تزيد من خطر الإصابة بأمراض القلب والسكتة الدماغية وأمراض الكلى وغيرها من المضاعفات الصحية طويلة المدى.",
+        "reversibleTitle": "هل يمكن عكسها؟",
+        "reversibleText": "الخبر الجيد هو أن مرحلة ما قبل السكري يمكن عكسها في كثير من الحالات. فالكشف المبكر يوفّر فرصة مهمة لإحداث تغييرات مفيدة. ويمكن لتحسين العادات الغذائية وزيادة النشاط البدني والحفاظ على وزن صحي وإجراء الفحوصات المنتظمة أن يخفّض مستويات السكر في الدم ويقلّل خطر تطور الحالة.",
+        "earlyTitle": "لماذا يهم التدخل المبكر؟",
+        "earlyText": "يساعد اكتشاف مرحلة ما قبل السكري مبكراً الأفراد على السيطرة على صحتهم قبل ظهور المضاعفات. وحتى التغييرات الصغيرة والمستمرة في نمط الحياة يمكن أن تترك أثراً إيجابياً طويل المدى. إن اتخاذ خطوة اليوم قد يساعد على الوقاية من المشكلات الصحية مستقبلاً ودعم الصحة العامة.",
+        "cta": "استكشف نصائح لنمط حياة صحيّة"
+      },
+      "risk": {
+        "heading": "إرشادات لنمط حياة صحي",
+        "stepsTitle": "خطوات يمكنك اتباعها",
+        "stepsText": "الاهتمام بالصحة رحلة مستمرة. سواء كان مستوى خطورتك الحالي منخفضاً أو مرتفعاً، فإن الاختيارات الحياتية المنتظمة والمدروسة يمكن أن تقلّل بشكل كبير من احتمال الإصابة بالسكري من النوع الثاني والمضاعفات الصحية طويلة المدى.",
+        "eatingTitle": "ابنِ نمطاً غذائياً متوازناً",
+        "eatingText": "يلعب الغذاء الصحي دوراً مهماً في التحكم بمستوى السكر في الدم.",
+        "eatingList1": "اختر الحبوب الكاملة بدلاً من الكربوهيدرات المكررة.",
+        "eatingList2": "أدخل الخضروات والفواكه والبقوليات والأطعمة الغنية بالألياف في نظامك اليومي.",
+        "eatingList3": "قلل من المشروبات السكرية والحلويات والأطعمة شديدة المعالجة.",
+        "eatingList4": "خفف أحجام الوجبات إذا لزم الأمر لدعم التحكم بالوزن.",
+        "eatingList5": "فضّل الدهون الصحية مثل زيت الزيتون والمكسرات والبذور.",
+        "activityTitle": "حافظ على نشاطك البدني",
+        "activityText": "يساعد النشاط البدني المنتظم الجسم على استخدام الأنسولين بشكل أكثر فاعلية.",
+        "activityList1": "استهدف ما لا يقل عن 150 دقيقة من النشاط المعتدل أسبوعياً مثل المشي السريع.",
+        "activityList2": "أضف تمارين تقوية العضلات من مرتين إلى ثلاث مرات أسبوعياً.",
+        "activityList3": "اختر أنشطة تستمتع بها لتسهيل الاستمرار عليها.",
+        "activityList4": "اكسر فترات الجلوس الطويلة بفواصل قصيرة من الحركة.",
+        "weightTitle": "حافظ على وزن صحي",
+        "weightText1": "يزيد الوزن الزائد، وخصوصاً حول منطقة البطن، من مقاومة الأنسولين. وقد يساهم فقدان نسبة صغيرة من الوزن، مثل 5 إلى 10 بالمئة، في تقليل خطر تطور الحالة إلى السكري من النوع الثاني بشكل واضح.",
+        "weightText2": "يجب أن يركز التحكم في الوزن على تغييرات تدريجية ومستدامة بدلاً من الأنظمة القاسية.",
+        "monitorTitle": "تابع صحتك بانتظام",
+        "monitorText": "تساعد الفحوصات الصحية المنتظمة على الاكتشاف المبكر والمتابعة المستمرة.",
+        "monitorList1": "افحص مستوى الجلوكوز في الدم وفق توصية المختص الصحي.",
+        "monitorList2": "تابع ضغط الدم ومستويات الكوليسترول.",
+        "monitorList3": "ناقش تاريخك العائلي وعوامل الخطورة الشخصية مع طبيبك.",
+        "monitorText2": "تدعم المتابعة المبكرة الوقاية من المضاعفات والتخطيط الصحي طويل المدى.",
+        "sleepTitle": "أدر التوتر والنوم",
+        "sleepText": "قد يؤثر التوتر المزمن وقلة النوم في التحكم بسكر الدم.",
+        "sleepList1": "استهدف 7 إلى 9 ساعات من النوم الجيد كل ليلة.",
+        "sleepList2": "مارس تقنيات تقليل التوتر مثل التنفس العميق أو المشي أو اليقظة الذهنية.",
+        "sleepList3": "حافظ على روتين يومي منتظم قدر الإمكان.",
+        "sleepText2": "دعم الصحة النفسية جزء مهم من الصحة العامة.",
+        "factorsTitle": "افهم عوامل الخطورة لديك",
+        "factorsText": "بعض عوامل الخطورة، مثل الوراثة والتاريخ العائلي، لا يمكن تغييرها. ومع ذلك فإن اختيارات نمط الحياة يمكن أن تقلل من تأثيرها بشكل كبير. إن فهمك لعوامل الخطورة يساعدك على اتخاذ خطوات استباقية.",
+        "cta": "اطلع على أهمية مرحلة ما قبل السكري"
+      },
+      "contact": {
+        "heading": "تواصل معنا",
+        "halimaBensmail": "د. حليمة بن سمايل",
+        "michaelJAupetit": "د. مايكل أوبتيت"
+      },
+      "about": {
+        "heading": "من نحن"
+      },
+      "team": {
+        "heading": "فريق مرحلة ما قبل السكري",
+        "tableCaption": "أعضاء فريق مرحلة ما قبل السكري ومسمياتهم الوظيفية ومعاهدهم.",
+        "columns": {
+          "name": "الاسم",
+          "title": "المسمى الوظيفي",
+          "institute": "المعهد"
+        },
+        "members": {
+          "hebaBenny": "هبة بيني",
+          "michaelJAupetit": "د. مايكل أوبتيت",
+          "halimaBensmail": "حليمة بن سمايل",
+          "abdullahShaar": "عبدالله شعار",
+          "mostafaHamza": "مصطفى حمزة",
+          "mostafaAbbas": "مصطفى عباس",
+          "raghvendraMall": "اغفيندرا مال"
+        },
+        "institutes": {
+          "qcri": "معهد قطر لبحوث الحوسبة",
+          "qbri": "معهد قطر لبحوث الطب الحيوي",
+          "geisingerPopulationHealth": "مستشفى جايزنجر، قسم علوم صحة السكان، بنسلفانيا"
+        },
+        "profile": {
+          "paragraph1": "اسمي هبة بيني، وأنا حاليًا أتابع دراستي في تخصص الذكاء الاصطناعي وتعلم الآلة. لدي اهتمام كبير بكيفية توظيف التكنولوجيا لإحداث أثر حقيقي وملموس في العالم، خاصة في مجال الرعاية الصحية والطب الوقائي.",
+          "paragraph2": "إلى جانب دراستي الأكاديمية، لدي شغف حقيقي بتصميم المواقع والتطوير الرقمي الإبداعي. أستمتع بتحويل الأفكار والبيانات والبحوث إلى تجارب مدروسة وواضحة وجذابة في الوقت نفسه.",
+          "paragraph3": "تم تطوير تطبيق PRISQ خلال فترة تدريبي كأحد المشاريع التي تعكس اهتماماتي الأكاديمية وحبي للتصميم. ومن خلال هذا التطبيق، سعيت إلى دمج التقييم الصحي المبني على أسس بحثية مع تجربة استخدام سلسة وبديهية، بهدف جعل الوعي الصحي الوقائي أكثر سهولة وقربًا للجميع."
+        },
+        "roles": {
+          "intern": "متدربة",
+          "internMale": "متدرب",
+          "principalScientist": "باحث رئيسي",
+          "seniorScientist": "عالِم أول",
+          "postdoc": "باحث ما بعد الدكتوراه",
+          "researchScientist": "باحث علمي",
+          "researchAssistant": "مساعد باحث",
+          "softwareEngineer": "مهندس برمجيات",
+          "seniorSoftwareEngineer": "مهندس برمجيات أول"
+        }
+      },
+      "quiz": {
+        "resultHeading": "مستوى خطورة ما قبل السكري لديك:",
+        "scoreLabel": "درجتك:",
+        "restart": "أعد المحاولة",
+        "cta": "استكشف نصائح لنمط حياة صحيّة"
+      }
+    }
+  },
+  "quizUiText": {
+    "en": {
+      "questionLabel": "Question",
+      "complete": "Complete",
+      "previous": "Previous",
+      "continue": "Continue",
+      "selectValue": "Select a value",
+      "enterValue": "Enter a value",
+      "loading": "Loading question...",
+      "loadError": "Unable to load the quiz.",
+      "invalidNumber": "Please enter a valid number within the allowed range.",
+      "riskHeading": "Your Prediabetes Risk:",
+      "lowLabel": "Low",
+      "moderateLabel": "Moderate",
+      "highLabel": "High",
+      "riskAdviceTemplate": "Your current score suggests a {risk} risk of developing prediabetes.",
+      "bmiTemplate": "Your BMI is {value} and falls in the {category} category.",
+      "bmiUnavailable": "Your BMI could not be calculated.",
+      "bmiNormal": "normal or underweight",
+      "bmiOverweight": "overweight",
+      "bmiObese": "obese",
+      "scoreLabel": "Your score:",
+      "probabilityLabel": "Risk probability:",
+      "idkOption": "I don't know",
+      "lowPopupMessage": "Good job! Keep going with your healthy habits.",
+      "moderatePopupMessage": "You're on the right track. Small changes now can make a big difference.",
+      "highPopupMessage": "Your result suggests higher risk. Taking action now and speaking with a healthcare professional can help.",
+      "measureGuideCta": "How to measure?",
+      "closePopover": "Close"
+    },
+    "ar": {
+      "questionLabel": "السؤال",
+      "complete": "مكتمل",
+      "previous": "السابق",
+      "continue": "متابعة",
+      "selectValue": "اختر قيمة",
+      "enterValue": "أدخل قيمة",
+      "loading": "جاري تحميل السؤال...",
+      "loadError": "تعذر تحميل الاختبار.",
+      "invalidNumber": "يرجى إدخال رقم صحيح ضمن النطاق المسموح.",
+      "riskHeading": "خطر الإصابة بمقدمات السكري لديك:",
+      "lowLabel": "منخفض",
+      "moderateLabel": "متوسط",
+      "highLabel": "مرتفع",
+      "bmiTemplate": "مؤشر كتلة الجسم لديك هو {value} ويقع ضمن فئة {category}.",
+      "bmiUnavailable": "تعذر حساب مؤشر كتلة الجسم لديك.",
+      "bmiNormal": "طبيعي أو نقص في الوزن",
+      "bmiOverweight": "زيادة في الوزن",
+      "bmiObese": "سمنة",
+      "scoreLabel": "نتيجتك:",
+      "probabilityLabel": "احتمالية الخطر:",
+      "idkOption": "لا أعرف",
+      "lowPopupMessage": "أحسنت! استمر على عاداتك الصحية.",
+      "moderatePopupMessage": "أنت على الطريق الصحيح. التغييرات الصغيرة اليوم قد تحدث فارقاً كبيراً.",
+      "highPopupMessage": "تشير نتيجتك إلى خطر أعلى. اتخاذ خطوات مبكرة والتحدث مع مختص صحي قد يساعدك.",
+      "measureGuideCta": "كيف يتم القياس؟",
+      "closePopover": "إغلاق"
+    }
+  },
+  "qa": {
+    "quizTitle": {
+      "en": "PRISQ Assessment",
+      "ar": "بريسك تقييم"
+    },
+    "startQuestionId": "q1_gender",
+    "questions": [
+      {
+        "id": "q1_gender",
+        "question": {
+          "en": "What is your gender?",
+          "ar": "ما هو جنسك؟"
+        },
+        "helpText": {
+          "en": "Men are more likely than women to have undiagnosed diabetes.",
+          "ar": "يتم تضمين الجنس في التقييم لأن الاختلافات البيولوجية قد تؤثر على توزيع الدهون في الجسم ومستوى خطر الإصابة بمقدمات السكري."
+        },
+        "options": [
+          {
+            "text": {
+              "en": "Male",
+              "ar": "ذكر"
+            },
+            "scoreValue": 1,
+            "next": "q2_male_waist",
+            "betaValue": 1
+          },
+          {
+            "text": {
+              "en": "Female",
+              "ar": "أنثى"
+            },
+            "scoreValue": 0,
+            "next": "q2_female_waist",
+            "betaValue": 0
+          }
+        ]
+      },
+      {
+        "id": "q2_male_waist",
+        "question": {
+          "en": "What is your waist size (in cm)?",
+          "ar": "ما هو مقاس محيط خصرك (سم)؟"
+        },
+        "helpText": {
+          "en": "Waist circumference helps assess abdominal fat, which is strongly linked to insulin resistance and prediabetes risk.",
+          "ar": "قياس محيط الخصر يساعد في تقييم الدهون المتراكمة حول البطن، والتي ترتبط بشكل قوي بزيادة مقاومة الإنسولين وخطر الإصابة بمقدمات السكري."
+        },
+        "next": "q3_male_age",
+        "options": [
+          {
+            "text": {
+              "en": "Less than 94",
+              "ar": "أقل من 94"
+            },
+            "scoreValue": 0
+          },
+          {
+            "text": {
+              "en": "Between 94 and 102",
+              "ar": "بين 94 و102"
+            },
+            "scoreValue": 2
+          },
+          {
+            "text": {
+              "en": "More than 102",
+              "ar": "أكثر من 102"
+            },
+            "scoreValue": 4
+          },
+          {
+            "text": {
+              "en": "I don't know",
+              "ar": "لا أعرف"
+            },
+            "scoreValue": 0
+          }
+        ],
+        "betaInput": {
+          "scoreType": "beta_waist",
+          "min": 50,
+          "max": 200,
+          "step": 1,
+          "unit": {
+            "en": "cm",
+            "ar": "سم"
+          },
+          "placeholder": {
+            "en": "Enter your waist size",
+            "ar": "أدخل محيط الخصر"
+          },
+          "helpText": {
+            "en": "Measure your waist at the midpoint between your lowest rib and hip bone, after exhaling normally.",
+            "ar": "قم بقياس محيط الخصر عند منتصف المسافة بين أسفل الضلوع وأعلى عظمة الحوض، بعد إخراج النفس بشكل طبيعي."
+          }
+        },
+        "measurementGuide": {
+          "en": "Place a flexible tape measure on bare skin around your midpoint, typically just above your belly button and halfway between your lowest rib and the top of your hip bone. Keep the tape snug but not tight, breathe out normally, and record the measurement. If you do not have a tape measure, use a piece of string first and then measure the string with a ruler.If you have a recent waist measurement from a clinic, health screening, or fitness assessment, you may use that value instead.",
+          "ar": "ضع شريط قياس مرنًا على الجلد حول منتصف الخصر، عادةً فوق السرة قليلًا وفي منتصف المسافة بين أدنى ضلع وأعلى عظم الورك. أبقِ الشريط محكمًا بدون شد قوي، وأخرِج نفسك بشكل طبيعي ثم سجّل القياس. إذا لم يتوفر شريط قياس، استخدم خيطًا أولًا ثم قِسه بمسطرة. إذا كان لديك قياس حديث لمحيط الخصر من مستشفى أو عيادة أو فحص صحي, يمكنك استخدام تلك القيمة."        }
+      },
+      {
+        "id": "q2_female_waist",
+        "question": {
+          "en": "What is your waist size (in cm)?",
+          "ar": "ما هو مقاس محيط خصرك (سم)؟"
+        },
+        "helpText": {
+          "en": "Waist circumference helps assess abdominal fat, which is strongly linked to insulin resistance and prediabetes risk.",
+          "ar": "قياس محيط الخصر يساعد في تقييم الدهون المتراكمة حول البطن، والتي ترتبط بشكل قوي بزيادة مقاومة الإنسولين وخطر الإصابة بمقدمات السكري."
+        },
+        "next": "q3_female_age",
+        "options": [
+          {
+            "text": {
+              "en": "Less than 80",
+              "ar": "أقل من 80"
+            },
+            "scoreValue": 0
+          },
+          {
+            "text": {
+              "en": "Between 80 and 88",
+              "ar": "بين 80 و88"
+            },
+            "scoreValue": 2
+          },
+          {
+            "text": {
+              "en": "More than 88",
+              "ar": "أكثر من 88"
+            },
+            "scoreValue": 4
+          },
+          {
+            "text": {
+              "en": "I don't know",
+              "ar": "لا أعرف"
+            },
+            "scoreValue": 0
+          }
+        ],
+        "betaInput": {
+          "scoreType": "beta_waist",
+          "min": 50,
+          "max": 200,
+          "step": 1,
+          "unit": {
+            "en": "cm",
+            "ar": "سم"
+          },
+          "placeholder": {
+            "en": "Enter your waist size",
+            "ar": "أدخل محيط الخصر"
+          },
+          "helpText": {
+            "en": "Enter your waist circumference in centimeters.",
+            "ar": "أدخل محيط الخصر بالسنتيمتر."
+          }
+        },
+        "measurementGuide": {
+          "en": "Place a flexible tape measure on bare skin around your midpoint, typically just above your belly button and halfway between your lowest rib and the top of your hip bone. Keep the tape snug but not tight, breathe out normally, and record the measurement. If you do not have a tape measure, use a piece of string first and then measure the string with a ruler.If you have a recent waist measurement from a clinic, health screening, or fitness assessment, you may use that value instead.",
+          "ar": "ضع شريط قياس مرنًا على الجلد حول منتصف الخصر، عادةً فوق السرة قليلًا وفي منتصف المسافة بين أدنى ضلع وأعلى عظم الورك. أبقِ الشريط محكمًا بدون شد قوي، وأخرِج نفسك بشكل طبيعي ثم سجّل القياس. إذا لم يتوفر شريط قياس، استخدم خيطًا أولًا ثم قِسه بمسطرة. إذا كان لديك قياس حديث لمحيط الخصر من مستشفى أو عيادة أو فحص صحي، يمكنك استخدام تلك القيمة."        }
+      },
+      {
+        "id": "q3_male_age",
+        "question": {
+          "en": "What is your age group?",
+          "ar": "ما هي فئتك العمرية؟"
+        },
+        "helpText": {
+          "en": "You are at a higher risk for prediabetes the older you are.",
+          "ar": "يزداد خطر الإصابة بمقدمات السكري كلما تقدم العمر."
+        },
+        "next": "q4_male_height",
+        "options": [
+          {
+            "text": {
+              "en": "18-29 years",
+              "ar": "18-29 سنة"
+            },
+            "scoreValue": 0
+          },
+          {
+            "text": {
+              "en": "30-39 years",
+              "ar": "30-39 سنة"
+            },
+            "scoreValue": 2
+          },
+          {
+            "text": {
+              "en": "40-49 years",
+              "ar": "40-49 سنة"
+            },
+            "scoreValue": 3
+          },
+          {
+            "text": {
+              "en": "50 years or older",
+              "ar": "50 سنة أو أكثر"
+            },
+            "scoreValue": 4
+          }
+        ],
+        "betaInput": {
+          "scoreType": "beta_age",
+          "min": 18,
+          "max": 120,
+          "step": 1,
+          "unit": {
+            "en": "years",
+            "ar": "سنة"
+          },
+          "placeholder": {
+            "en": "Enter your age",
+            "ar": "أدخل العمر"
+          },
+          "helpText": {
+            "en": "You are at a higher risk for prediabetes the older you are.",
+            "ar": "يزداد خطر الإصابة بمقدمات السكري كلما تقدم العمر."
+          }
+        }
+      },
+      {
+        "id": "q3_female_age",
+        "question": {
+          "en": "What is your age group?",
+          "ar": "ما هي فئتك العمرية؟"
+        },
+        "helpText": {
+          "en": "You are at a higher risk for prediabetes the older you are.",
+          "ar": "يزداد خطر الإصابة بمقدمات السكري كلما تقدم العمر."
+        },
+        "next": "q4_female_height",
+        "options": [
+          {
+            "text": {
+              "en": "18-29 years",
+              "ar": "18-29 سنة"
+            },
+            "scoreValue": 0
+          },
+          {
+            "text": {
+              "en": "30-39 years",
+              "ar": "30-39 سنة"
+            },
+            "scoreValue": 1
+          },
+          {
+            "text": {
+              "en": "40-49 years",
+              "ar": "40-49 سنة"
+            },
+            "scoreValue": 3
+          },
+          {
+            "text": {
+              "en": "50 years or older",
+              "ar": "50 سنة أو أكثر"
+            },
+            "scoreValue": 4
+          }
+        ],
+        "betaInput": {
+          "scoreType": "beta_age",
+          "min": 18,
+          "max": 120,
+          "step": 1,
+          "unit": {
+            "en": "years",
+            "ar": "سنة"
+          },
+          "placeholder": {
+            "en": "Enter your age",
+            "ar": "أدخل العمر"
+          },
+          "helpText": {
+            "en": "You are at a higher risk for prediabetes the older you are.",
+            "ar": "يزداد خطر الإصابة بمقدمات السكري كلما تقدم العمر."
+          }
+        }
+      },
+      {
+        "id": "q4_male_height",
+        "question": {
+          "en": "What is your height (in cm)?",
+          "ar": "ما هو طولك (سم)؟"
+        },
+        "helpText": {
+          "en": "Height is used together with weight to calculate your Body Mass Index (BMI).",
+          "ar": "يتم استخدام الطول مع الوزن لحساب مؤشر كتلة الجسم (BMI)، وهو مؤشر مهم لتقييم المخاطر الصحية المرتبطة بالوزن."
+        },
+        "inputType": "number_select",
+        "scoreType": "bmi_height",
+        "placeholder": {
+          "en": "Select your height",
+          "ar": "اختر طولك"
+        },
+        "min": 140,
+        "max": 200,
+        "step": 1,
+        "unit": {
+          "en": "cm",
+          "ar": "سم"
+        },
+        "scoreValue": 0,
+        "next": "q5_male_weight",
+        "measurementGuide": {
+          "en": "Stand barefoot with your back against a wall, heels together, and eyes looking straight ahead. Place a flat object on top of your head to mark the wall, then measure from the floor to the mark. A stadiometer or help from another person can make this more accurate.If you know your height from a recent medical visit, official record, or ID documentation, you may use that measurement.",
+          "ar": "قف حافيَ القدمين مع إلصاق ظهرك بالحائط، واجمع كعبيك، وانظر مباشرةً إلى الأمام. ضع جسمًا مسطحًا فوق رأسك لتحديد العلامة على الحائط، ثم قِس المسافة من الأرض إلى العلامة. يمكن أن يكون استخدام جهاز قياس الطول أو مساعدة شخص آخر أدق. إذا كنت تعرف طولك من زيارة طبية حديثة أو سجل رسمي، يمكنك استخدام ذلك القياس."
+        }
+      },
+      {
+        "id": "q4_female_height",
+        "question": {
+          "en": "What is your height (in cm)?",
+          "ar": "ما هو طولك (سم)؟"
+        },
+        "helpText": {
+          "en": "Height is used together with weight to calculate your Body Mass Index (BMI).",
+          "ar": "يتم استخدام الطول مع الوزن لحساب مؤشر كتلة الجسم (BMI)، وهو مؤشر مهم لتقييم المخاطر الصحية المرتبطة بالوزن."
+        },
+        "inputType": "number_select",
+        "scoreType": "bmi_height",
+        "placeholder": {
+          "en": "Select your height",
+          "ar": "اختر طولك"
+        },
+        "min": 140,
+        "max": 200,
+        "step": 1,
+        "unit": {
+          "en": "cm",
+          "ar": "سم"
+        },
+        "scoreValue": 0,
+        "next": "q5_female_weight",
+        "measurementGuide": {
+          "en": "Stand barefoot with your back against a wall, heels together, and eyes looking straight ahead. Place a flat object on top of your head to mark the wall, then measure from the floor to the mark. A stadiometer or help from another person can make this more accurate. If you know your height from a recent medical visit, official record, or ID documentation, you may use that measurement.",
+          "ar": "قف حافيَ القدمين مع إلصاق ظهرك بالحائط، واجمع كعبيك، وانظر مباشرةً إلى الأمام. ضع جسمًا مسطحًا فوق رأسك لتحديد العلامة على الحائط، ثم قِس المسافة من الأرض إلى العلامة. يمكن أن يكون استخدام جهاز قياس الطول أو مساعدة شخص آخر أدق. إذا كنت تعرف طولك من زيارة طبية حديثة أو سجل رسمي، يمكنك استخدام ذلك القياس."
+        }
+      },
+      {
+        "id": "q5_male_weight",
+        "question": {
+          "en": "What is your weight (in kg)?",
+          "ar": "ما هو وزنك (كجم)؟"
+        },
+        "helpText": {
+          "en": "Weight is combined with height to estimate your BMI, an important indicator of metabolic risk.",
+          "ar": "يتم دمج الوزن مع الطول لتقدير مؤشر كتلة الجسم (BMI)، وهو مؤشر مهم لتقييم المخاطر الصحية المرتبطة بالوزن."
+        },
+        "inputType": "number_select",
+        "scoreType": "bmi_weight",
+        "placeholder": {
+          "en": "Select your weight",
+          "ar": "اختر وزنك"
+        },
+        "min": 40,
+        "max": 120,
+        "step": 1,
+        "unit": {
+          "en": "kg",
+          "ar": "كجم"
+        },
+        "scoreValue": 0,
+        "next": "q6_smoking",
+        "measurementGuide": {
+          "en": "Use a digital scale on a hard, flat floor, ideally in light clothing and without shoes. Stand still in the center of the scale and record the number. For the most consistent result, weigh yourself at the same time of day, such as in the morning. If you have a recent weight recorded at a clinic, pharmacy, or health center, you may enter that value.",
+          "ar": "استخدم ميزانًا رقميًا على أرضية صلبة ومستوية، ويُفضّل بملابس خفيفة ومن دون حذاء. قف بثبات في منتصف الميزان وسجّل الرقم. ولأفضل اتساقًا، زِن نفسك في الوقت نفسه من اليوم، مثل الصباح. إذا كان لديك وزن مسجل حديثًا من مستشفى أو عيادة أو صيدلية، يمكنك إدخال تلك القيمة."        }
+      },
+      {
+        "id": "q5_female_weight",
+        "question": {
+          "en": "What is your weight (in kg)?",
+          "ar": "ما هو وزنك (كجم)؟"
+        },
+        "helpText": {
+          "en": "Weight is combined with height to estimate your BMI, an important indicator of metabolic risk.",
+          "ar": "يتم دمج الوزن مع الطول لتقدير مؤشر كتلة الجسم (BMI)، وهو مؤشر مهم لتقييم المخاطر الصحية المرتبطة بالوزن."
+        },
+        "inputType": "number_select",
+        "scoreType": "bmi_weight",
+        "placeholder": {
+          "en": "Select your weight",
+          "ar": "اختر وزنك"
+        },
+        "min": 40,
+        "max": 120,
+        "step": 1,
+        "unit": {
+          "en": "kg",
+          "ar": "كجم"
+        },
+        "scoreValue": 0,
+        "next": "q6_smoking",
+        "measurementGuide": {
+          "en": "Use a digital scale on a hard, flat floor, ideally in light clothing and without shoes. Stand still in the center of the scale and record the number. For the most consistent result, weigh yourself at the same time of day, such as in the morning. If you have a recent weight recorded at a clinic, pharmacy, or health center, you may enter that value.",
+          "ar": "استخدم ميزانًا رقميًا على أرضية صلبة ومستوية، ويُفضّل بملابس خفيفة ومن دون حذاء. قف بثبات في منتصف الميزان وسجّل الرقم. ولأفضل اتساقًا، زِن نفسك في الوقت نفسه من اليوم، مثل الصباح. إذا كان لديك وزن مسجل حديثًا من مستشفى أو عيادة أو صيدلية، يمكنك إدخال تلك القيمة."}
+      },
+      {
+        "id": "q6_smoking",
+        "question": {
+          "en": "Do you smoke?",
+          "ar": "هل تدخن؟"
+        },
+        "helpText": {
+          "en": "Smoking is associated with increased insulin resistance and a higher risk of developing type 2 diabetes.",
+          "ar": "يرتبط التدخين بزيادة مقاومة الإنسولين وارتفاع خطر الإصابة بداء السكري من النوع الثاني."
+        },
+        "next": "q7_systolic",
+        "options": [
+          {
+            "text": {
+              "en": "Yes",
+              "ar": "نعم"
+            },
+            "scoreValue": 1
+          },
+          {
+            "text": {
+              "en": "No",
+              "ar": "لا"
+            },
+            "scoreValue": 0
+          }
+        ]
+      },
+      {
+        "id": "q7_systolic",
+        "question": {
+          "en": "What is your systolic blood pressure (mmHg)?",
+          "ar": "ما هو ضغط الدم الانقباضي لديك؟"
+        },
+        "helpText": {
+          "en": "Systolic blood pressure is the top number in a reading (e.g., 120/80). Elevated levels increase cardiovascular and metabolic risk.",
+          "ar": "الضغط الانقباضي هو الرقم العلوي في قراءة ضغط الدم (مثل 120/80). ارتفاعه قد يزيد من خطر الإصابة بأمراض القلب والمضاعفات الأيضية."
+        },
+        "next": "q8_diastolic",
+        "options": [
+          {
+            "text": {
+              "en": "Normal",
+              "ar": "طبيعي"
+            },
+            "scoreValue": 0
+          },
+          {
+            "text": {
+              "en": "Elevated",
+              "ar": "مرتفع"
+            },
+            "scoreValue": 1
+          },
+          {
+            "text": {
+              "en": "Hypertension",
+              "ar": "ارتفاع ضغط الدم"
+            },
+            "scoreValue": 2
+          },
+          {
+            "text": {
+              "en": "I will measure SBP",
+              "ar": "سأقيس ضغط الدم الانقباضي"
+            },
+            "scoreValue": 0,
+            "next": "q7_systolic_value"
+          },
+          {
+            "text": {
+              "en": "I don't know",
+              "ar": "لا أعرف"
+            },
+            "scoreValue": 0
+          }
+        ],
+        "betaInput": {
+          "scoreType": "beta_systolic",
+          "fallbackValue": 180,
+          "min": 70,
+          "max": 250,
+          "step": 1,
+          "unit": {
+            "en": "mmHg",
+            "ar": "mmHg"
+          },
+          "placeholder": {
+            "en": "Enter systolic blood pressure",
+            "ar": "أدخل ضغط الدم الانقباضي"
+          },
+          "helpText": {
+            "en": "Enter the top number from your blood pressure reading.",
+            "ar": "أدخل الرقم العلوي من قراءة ضغط الدم."
+          }
+        },
+        "measurementGuide": {
+          "en": "Sit quietly for 5 minutes before measuring. Place the cuff on your bare upper arm, keep your back supported, feet flat on the floor, and your arm resting at heart level. After the reading appears, use the top number as your systolic pressure. A home monitor, clinic, or pharmacy machine can all be used. You may also enter a recent blood pressure reading provided by a hospital, clinic, pharmacy, or healthcare professional.",
+          "ar": "اجلس بهدوء لمدة 5 دقائق قبل القياس. ضع الكُم على الذراع العلوية العارية، وأبقِ ظهرك مسنودًا، وقدميك مستقرتين على الأرض، وذراعك مستندة على مستوى القلب. بعد ظهور القراءة، استخدم الرقم العلوي كقيمة الضغط الانقباضي. يمكن القياس بجهاز منزلي أو في عيادة أو صيدلية. إذا كانت لديك قراءة حديثة لضغط الدم من مستشفى أو عيادة أو صيدلية، يمكنك إدخال تلك القيمة."
+        }
+      },
+      {
+        "id": "q7_systolic_value",
+        "question": {
+          "en": "Enter your Systolic Blood Pressure (mmHg)",
+          "ar": "(mmHg)أدخل ضغط الدم الانقباضي"
+        },
+        "helpText": {
+          "en": "Systolic blood pressure is the top number in a reading (e.g., 120/80). Elevated levels increase cardiovascular and metabolic risk.",
+          "ar": "الضغط الانقباضي هو الرقم العلوي في قراءة ضغط الدم (مثل 120/80). ارتفاعه قد يزيد من خطر الإصابة بأمراض القلب والمضاعفات الأيضية."
+        },
+        "inputType": "number_input",
+        "scoreType": "sbp_manual",
+        "placeholder": {
+          "en": "Enter systolic blood pressure",
+          "ar": "أدخل ضغط الدم الانقباضي"
+        },
+        "min": 70,
+        "max": 250,
+        "step": 1,
+        "unit": {
+          "en": "mmHg",
+          "ar": "mmHg"
+        },
+        "scoreValue": 0,
+        "next": "q8_diastolic_value",
+        "measurementGuide": {
+          "en": "Sit quietly for 5 minutes before measuring. Place the cuff on your bare upper arm, keep your back supported, feet flat on the floor, and your arm resting at heart level. After the reading appears, use the top number as your systolic pressure. A home monitor, clinic, or pharmacy machine can all be used. You may also enter a recent blood pressure reading provided by a hospital, clinic, pharmacy, or healthcare professional.",
+          "ar": "اجلس بهدوء لمدة 5 دقائق قبل القياس. ضع الكُم على الذراع العلوية العارية، وأبقِ ظهرك مسنودًا، وقدميك مستقرتين على الأرض، وذراعك مستندة على مستوى القلب. بعد ظهور القراءة، استخدم الرقم العلوي كقيمة الضغط الانقباضي. يمكن القياس بجهاز منزلي أو في عيادة أو صيدلية. إذا كانت لديك قراءة حديثة لضغط الدم من مستشفى أو عيادة أو صيدلية، يمكنك إدخال تلك القيمة."
+        }
+      },
+      {
+        "id": "q8_diastolic",
+        "question": {
+          "en": "What is your diastolic blood pressure (mmHg)?",
+          "ar": "(mmHg)ما هو ضغط الدم الانبساطي لديك؟"
+        },
+        "helpText": {
+          "en": "Diastolic blood pressure is the bottom number in a reading (e.g., 120/80). Elevated levels increase cardiovascular and metabolic risk.",
+          "ar": "الضغط الانبساطي هو الرقم السفلي في قراءة ضغط الدم (مثل 120/80). ارتفاعه قد يشير إلى زيادة في المخاطر الصحية."
+        },
+        "options": [
+          {
+            "text": {
+              "en": "Normal",
+              "ar": "طبيعي"
+            },
+            "scoreValue": 0
+          },
+          {
+            "text": {
+              "en": "Elevated",
+              "ar": "مرتفع"
+            },
+            "scoreValue": 1
+          },
+          {
+            "text": {
+              "en": "Hypertension",
+              "ar": "ارتفاع ضغط الدم"
+            },
+            "scoreValue": 2
+          },
+          {
+            "text": {
+              "en": "I will measure DBP",
+              "ar": "سأقيس ضغط الدم الانبساطي"
+            },
+            "scoreValue": 0,
+            "next": "q8_diastolic_value"
+          },
+          {
+            "text": {
+              "en": "I don't know",
+              "ar": "لا أعرف"
+            },
+            "scoreValue": 0
+          }
+        ],
+        "betaInput": {
+          "scoreType": "beta_diastolic",
+          "fallbackValue": 120,
+          "min": 40,
+          "max": 160,
+          "step": 1,
+          "unit": {
+            "en": "mmHg",
+            "ar": "mmHg"
+          },
+          "placeholder": {
+            "en": "Enter diastolic blood pressure",
+            "ar": "أدخل ضغط الدم الانبساطي"
+          },
+          "helpText": {
+            "en": "Enter the bottom number from your blood pressure reading.",
+            "ar": "الضغط الانبساطي هو الرقم السفلي في قراءة ضغط الدم (مثل 120/80). ارتفاعه قد يشير إلى زيادة في المخاطر الصحية."
+          }
+        },
+        "measurementGuide": {
+          "en": "Sit quietly for 5 minutes before measuring. Place the cuff on your bare upper arm, keep your back supported, feet flat on the floor, and your arm resting at heart level. After the reading appears, use the bottom number as your diastolic pressure. A home monitor, clinic, or pharmacy machine can all be used.",
+          "ar": "اجلس بهدوء لمدة 5 دقائق قبل القياس. ضع الكُم على الذراع العلوية العارية، وأبقِ ظهرك مسنودًا، وقدميك مستقرتين على الأرض، وذراعك مستندة على مستوى القلب. بعد ظهور القراءة، استخدم الرقم السفلي كقيمة الضغط الانبساطي. يمكن القياس بجهاز منزلي أو في عيادة أو صيدلية."
+        }
+      },
+      {
+        "id": "q8_diastolic_value",
+        "question": {
+          "en": "Enter your Diastolic Blood Pressure (mmHg)",
+          "ar": "(mmHg)أدخل ضغط الدم الانبساطي"
+        },
+        "helpText": {
+          "en": "Diastolic blood pressure is the bottom number in a reading (e.g., 120/80). Elevated levels increase cardiovascular and metabolic risk.",
+          "ar": "الضغط الانبساطي هو الرقم السفلي في قراءة ضغط الدم (مثل 120/80). ارتفاعه قد يشير إلى زيادة في المخاطر الصحية."
+        },
+        "inputType": "number_input",
+        "scoreType": "dbp_manual",
+        "placeholder": {
+          "en": "Enter diastolic blood pressure",
+          "ar": "أدخل ضغط الدم الانبساطي"
+        },
+        "min": 40,
+        "max": 160,
+        "step": 1,
+        "unit": {
+          "en": "mmHg",
+          "ar": "mmHg"
+        },
+        "scoreValue": 0,
+        "next": null,
+        "measurementGuide": {
+          "en": "Sit quietly for 5 minutes before measuring. Place the cuff on your bare upper arm, keep your back supported, feet flat on the floor, and your arm resting at heart level. After the reading appears, use the bottom number as your diastolic pressure. A home monitor, clinic, or pharmacy machine can all be used.",
+          "ar": "اجلس بهدوء لمدة 5 دقائق قبل القياس. ضع الكُم على الذراع العلوية العارية، وأبقِ ظهرك مسنودًا، وقدميك مستقرتين على الأرض، وذراعك مستندة على مستوى القلب. بعد ظهور القراءة، استخدم الرقم السفلي كقيمة الضغط الانبساطي. يمكن القياس بجهاز منزلي أو في عيادة أو صيدلية."
+        }
+      }
+    ]
+  },
+  "score": {
+    "quantized": {
+      "riskCategories": [
+        {
+          "label": "Low",
+          "min": 0,
+          "max": 6
+        },
+        {
+          "label": "Moderate",
+          "min": 7,
+          "max": 11
+        },
+        {
+          "label": "High",
+          "min": 12
+        }
+      ],
+      "bmiScoring": {
+        "bands": [
+          {
+            "label": "Normal or underweight",
+            "min": 0,
+            "max": 24.9,
+            "scoreValue": 0
+          },
+          {
+            "label": "Overweight",
+            "min": 25,
+            "max": 29.9,
+            "scoreValue": 2
+          },
+          {
+            "label": "Obese",
+            "min": 30,
+            "scoreValue": 3
+          }
+        ]
+      },
+      "bloodPressureScoring": {
+        "systolic": {
+          "bands": [
+            {
+              "label": "Normal",
+              "min": 0,
+              "max": 119,
+              "scoreValue": 0
+            },
+            {
+              "label": "Elevated",
+              "min": 120,
+              "max": 129,
+              "scoreValue": 1
+            },
+            {
+              "label": "Hypertension",
+              "min": 130,
+              "scoreValue": 2
+            }
+          ]
+        },
+        "diastolic": {
+          "bands": [
+            {
+              "label": "Normal",
+              "min": 0,
+              "max": 79,
+              "scoreValue": 0
+            },
+            {
+              "label": "Elevated",
+              "min": 80,
+              "max": 89,
+              "scoreValue": 1
+            },
+            {
+              "label": "Hypertension",
+              "min": 90,
+              "scoreValue": 2
+            }
+          ]
+        }
+      }
+    },
+    "beta": {
+      "intercept": -9.319184298,
+      "betas": {
+        "age": 0.07260693,
+        "bmi": 0.009904368,
+        "waist": 0.037134772,
+        "systolic": 0.001699078,
+        "diastolic": 0.025054249,
+        "gender": -0.304385268
+      },
+      "riskCategories": [
+        {
+          "min": 0,
+          "max": 0.1499,
+          "label": "Low"
+        },
+        {
+          "min": 0.15,
+          "max": 0.2999,
+          "label": "Moderate"
+        },
+        {
+          "min": 0.3,
+          "max": 1,
+          "label": "High"
+        }
+      ]
+    }
+  }
+}
